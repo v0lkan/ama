@@ -13,10 +13,6 @@ I will answer them “eventually” — where, “eventually” is the key here 
 ----
 
 
-> 
-> I’ll add a Turkish version of this start page soon.
->
-
 # Ask me anything!
 
 ## [Ask a question](https://github.com/v0lkan/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/v0lkan/ama/issues?q=is%3Aissue+is%3Aclosed)
