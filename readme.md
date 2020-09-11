@@ -1,8 +1,9 @@
 ## Update
 
 I’m terribly busy as usual, so this repo is not among my top priorities;
-but there will be a time I'll be working on this more too. 
-Possibly after I finalize [JavaScript: from Zero to Hero](https://zerotohero.dev)
+but there will be a time I'll be working on this more, too.
+
+That will be, possibly, after I finalize [JavaScript: from Zero to Hero](https://zerotohero.dev).
 
 Feel free to open new issues though.
 
